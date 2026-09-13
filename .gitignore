@@ -31,8 +31,8 @@ cache/
 *.safetensors
 
 # OS / IDE
+temp_auto_push.bat
 .DS_Store
-.vscode/
 .idea/
 
 # Backups
@@ -66,3 +66,5 @@ dataset/data/pipeline_fixed.json
 # Dataset backups and cache
 dataset/*.backup
 dataset/__pycache__/
+.gitignore
+branch_structure.json
